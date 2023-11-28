@@ -1,4 +1,8 @@
-# How to upload to GitHub
+# This is the origin of the htpa mesa website
+
+There will be everything from the website here, but I have yet to make it an organization in github and add people for the maintenance of the website so far
+
+## How to upload to GitHub
 
 To make a new repository, do this:
 
