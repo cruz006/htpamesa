@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<title>ABOUT - HTPA MESA</title>
+
+<div id="navbar">
+    <a href="#home">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+  </div> 
+
+<br>
+<br>
+
+<h1>hello there mis amigos</h1>
+
+<p>hi.</p>
+
+</body>
+</html>
+
+<script>
+    /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+  prevScrollpos = currentScrollPos;
+} 
+</script>
