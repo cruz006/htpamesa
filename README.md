@@ -2,6 +2,8 @@
 
 There will be everything from the website here, but I have yet to make it an organization in github and add people for the maintenance of the website so far, once the contect and overall structure of the website is done, this will be archived and the organization will be made with the new repository to continue updating the website.
 
+The original design will be made on Figma, then as it gets more and more complicated it will then be made interactive with react.js
+
 ## How to upload to GitHub
 
 To make a new repository, do this:
